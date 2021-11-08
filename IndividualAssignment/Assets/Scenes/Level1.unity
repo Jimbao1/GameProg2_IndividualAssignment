@@ -58265,9 +58265,29 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2866047012487093837, guid: 51486289d74dfb046ba0258be9776c8a, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 758.3193
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866047012487093837, guid: 51486289d74dfb046ba0258be9776c8a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 323.69745
+      objectReference: {fileID: 0}
     - target: {fileID: 2866047012669025002, guid: 51486289d74dfb046ba0258be9776c8a, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866047012669025004, guid: 51486289d74dfb046ba0258be9776c8a, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866047012669025004, guid: 51486289d74dfb046ba0258be9776c8a, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1920
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866047012669025004, guid: 51486289d74dfb046ba0258be9776c8a, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 1080
       objectReference: {fileID: 0}
     - target: {fileID: 2866047012669025006, guid: 51486289d74dfb046ba0258be9776c8a, type: 3}
       propertyPath: m_Pivot.x
@@ -58352,6 +58372,14 @@ PrefabInstance:
     - target: {fileID: 2866047012669025006, guid: 51486289d74dfb046ba0258be9776c8a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866047013415295880, guid: 51486289d74dfb046ba0258be9776c8a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -366.05038
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866047013466766422, guid: 51486289d74dfb046ba0258be9776c8a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -366.05038
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2759621576815870862, guid: 51486289d74dfb046ba0258be9776c8a, type: 3}
